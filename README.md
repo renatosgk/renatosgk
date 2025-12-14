@@ -102,3 +102,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqld
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatosgk&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=7"
 />
 </p>
+
+###
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
