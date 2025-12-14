@@ -2,7 +2,7 @@
 
 **`Desenvolvedor back-end`**
 
-Me chamo Renato Kenji, tenho 22 anos, cursando Análise e Desenvolvimento de Sistemas na FIAP.
+Me chamo Renato Kenji, tenho 23 anos, cursando Análise e Desenvolvimento de Sistemas na FIAP.
 
 ---
 
