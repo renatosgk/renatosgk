@@ -105,5 +105,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqld
 
 ###
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/renatosgk/renatosgk/output/snake.svg" alt="Snake animation" />
 
